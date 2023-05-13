@@ -38,14 +38,17 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME", "music420")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/TheTeamAlexa/AlexaMusic",
+    "https://github.com/Officialgovindmp/music420",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Alexa_BotUpdates")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Alexa_Help")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/one_man_army_14")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/govind_love_n")
+          
+    
+                      
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
@@ -63,7 +66,7 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "3"))
 
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
-GITHUB_REPO = getenv("GITHUB_REPO", None)
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/Officialgovindmp/music420")
 
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", None)
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", None)
@@ -81,8 +84,8 @@ TG_AUDIO_FILESIZE_LIMIT = int(getenv("TG_AUDIO_FILESIZE_LIMIT", "104857600"))
 TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", "1073741824"))
 # https://www.gbmb.org/mb-to-bytes
 
-STRING1 = getenv("STRING_SESSION", None)
-STRING2 = getenv("STRING_SESSION2", None)
+STRING1 = getenv("STRING_SESSION", "BQCMv79TdyVOWw0FaNZ0jHe2ehTJTA3HOaR5L6f1f3cZvKXgoZ3UVPCEDApnODKRoq5DM-JspFAE8EH4Dmq7QrfQ40tb8u6Ylf0EmL7Bhqh_-P9QBBO4rJf1B2ghGrVwViobbCx8jSKt_8F_maRISXtGfLPLpF4xz5uZh-xCgGWkdBrs6eirtWulvVrBoHs0QXrQ3gH8SMQ70dtjfb0tCjnOq9sIbvd_PfRAhO8HgjGW3hDb6CsMS7yIdAg6U40NZiGoygG-jGbugh9LU-y744wFhNw9E1JKdMY7Zg6Wu9yADsJ5FS9jpySzWCyKICPmoGbluY5CVNEtdhJYIeriggxKAAAAAWdQhcUA")
+STRING2 = getenv("STRING_SESSION2", "BQCMv79TdyVOWw0FaNZ0jHe2ehTJTA3HOaR5L6f1f3cZvKXgoZ3UVPCEDApnODKRoq5DM-JspFAE8EH4Dmq7QrfQ40tb8u6Ylf0EmL7Bhqh_-P9QBBO4rJf1B2ghGrVwViobbCx8jSKt_8F_maRISXtGfLPLpF4xz5uZh-xCgGWkdBrs6eirtWulvVrBoHs0QXrQ3gH8SMQ70dtjfb0tCjnOq9sIbvd_PfRAhO8HgjGW3hDb6CsMS7yIdAg6U40NZiGoygG-jGbugh9LU-y744wFhNw9E1JKdMY7Zg6Wu9yADsJ5FS9jpySzWCyKICPmoGbluY5CVNEtdhJYIeriggxKAAAAAWdQhcUA")
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
@@ -100,7 +103,7 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/d593c6064ff7657d0c714.jpg"
+    "START_IMG_URL", "https://te.legra.ph/file/df53bc4c69cfda6ff7ed0.jpg"
 )
 
 PING_IMG_URL = getenv(
