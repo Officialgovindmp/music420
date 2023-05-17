@@ -1,12 +1,12 @@
 #
-# Copyright (C) 2021-2022 by Alexa_Help@Github, < https://github.com/Jankarikiduniya >.
+# Copyright (C) 2021-2022 by govind@Github, < https://github.com/music420 >.
 # A Powerful Music Bot Property Of Rocks Indian Largest Chatting Group
 
-# Modified By © @Dr_Asad_Ali
-# Rocks © @Shayri_Music_Lovers
-# Owner Asad Ali
-# Harshit Sharma
-# All rights reserved. © Alisha © Alexa © Yukki
+# Modified By © @GOVIND_OFFICIAL_MP42
+# Rocks © @shayari_ka_tadka
+# Owner govid varma
+# sanvi varma
+# All rights reserved. © sanvi © govind © Yukki
 
 
 import asyncio
