@@ -10,7 +10,7 @@ from PIL import Image, ImageChops, ImageDraw, ImageEnhance, ImageFilter, ImageFo
 from youtubesearchpython.__future__ import VideosSearch
 
 import config
-from AnonX import app
+from alexa import app
 YOUTUBE_IMG_URL = [ 
 
     "https://te.legra.ph/file/9bd2e4063d9827b6ccf77.jpg",
