@@ -17,12 +17,12 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v3
         with:
-          commit-message: Formate By @TheTeamAlexa
+          commit-message: Formate By @GOVIND_OFFICIAL_MP42
           title: Format code.
           body: Automated code formatting.
           labels: ⚫️ black
           branch: autofix
-          committer: TheTeamAlexa <TheTeamAlexa@users.noreply.github.com>
+          committer: team icc <govind_love_n@users.noreply.github.com>
           author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
           signoff: true
           delete-branch: true
